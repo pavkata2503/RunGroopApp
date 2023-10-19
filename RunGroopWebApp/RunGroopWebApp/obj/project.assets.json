@@ -2705,11 +2705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pavka\\OneDrive\\Documents\\Програвиране C#\\За училище\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\pavka\\OneDrive\\Documents\\Програвиране C#\\За училище\\RunGroopWebApp\\RunGroopApp\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
       "projectName": "RunGroopWebApp",
-      "projectPath": "C:\\Users\\pavka\\OneDrive\\Documents\\Програвиране C#\\За училище\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
+      "projectPath": "C:\\Users\\pavka\\OneDrive\\Documents\\Програвиране C#\\За училище\\RunGroopWebApp\\RunGroopApp\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
       "packagesPath": "C:\\Users\\pavka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pavka\\OneDrive\\Documents\\Програвиране C#\\За училище\\RunGroopWebApp\\RunGroopWebApp\\obj\\",
+      "outputPath": "C:\\Users\\pavka\\OneDrive\\Documents\\Програвиране C#\\За училище\\RunGroopWebApp\\RunGroopApp\\RunGroopWebApp\\RunGroopWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pavka\\AppData\\Roaming\\NuGet\\NuGet.Config",

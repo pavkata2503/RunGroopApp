@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MbrhB0FZ7lqwnYCU+1yFO5NIGq4fq6QwH7jlJeANLPtA4JBwX3ohXdZ1dWVAONvUEv4HXT8BfrWCHaZLPaT9yQ==",
+  "dgSpecHash": "sZRnUW3eN/dlxmqehd5TGXC9dJrECubtLRWPO62+9dRdjYap+6RIn6OQ9Ay65Cs5CMgRD+wjzARRy0xrw8S2jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pavka\\OneDrive\\Documents\\Програвиране C#\\За училище\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
+  "projectFilePath": "C:\\Users\\pavka\\OneDrive\\Documents\\Програвиране C#\\За училище\\RunGroopWebApp\\RunGroopApp\\RunGroopWebApp\\RunGroopWebApp\\RunGroopWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pavka\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\pavka\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
