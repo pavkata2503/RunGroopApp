@@ -5,6 +5,7 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RunGroopWebApp
 build_property.RootNamespace = RunGroopWebApp
@@ -14,6 +15,10 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\RunGroopWebApp\RunGroopApp\RunGroopWebApp\RunGroopWebApp
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/pavka/OneDrive/Documents/Програвиране C\#/За училище/RunGroopWebApp/RunGroopApp/RunGroopWebApp/RunGroopWebApp/Views/Club/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/pavka/OneDrive/Documents/Програвиране C\#/За училище/RunGroopWebApp/RunGroopApp/RunGroopWebApp/RunGroopWebApp/Views/Club/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxEZXRhaWwuY3NodG1s
