@@ -167,3 +167,5 @@ C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училищ�
 C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\RunGroopWebApp\RunGroopApp\RunGroopWebApp\RunGroopWebApp\obj\Debug\net6.0\RunGroopWebApp.pdb
 C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\RunGroopWebApp\RunGroopApp\RunGroopWebApp\RunGroopWebApp\obj\Debug\net6.0\RunGroopWebApp.genruntimeconfig.cache
 C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\RunGroopWebApp\RunGroopApp\RunGroopWebApp\RunGroopWebApp\obj\Debug\net6.0\ref\RunGroopWebApp.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\RunGroopWebApp\RunGroopApp\RunGroopWebApp\RunGroopWebApp\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\RunGroopWebApp\RunGroopApp\RunGroopWebApp\RunGroopWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
